@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 <img src="media\DALLE2-doge.png" alt="drawing" height="320"/>
 
 
@@ -7,16 +8,18 @@ I'm Alex, an engineer in Australia.
 I majored in Electrical/Electronics and dabbled in physics (undergrad).
 
 🌱 I’m currently learning: **3D-printing**
+
 <img src="media\bathroom-holder.png" alt="drawing" height="320"/>
 
-<img src="media\fusion.png" alt="drawing" height="280"/>
-<img src="media\cura.gif" alt="drawing" height="280"/>
+<img src="media\fusion.png" alt="drawing" height="240"/><img src="media\cura.gif" alt="drawing" height="240"/>
 
 Another random print (downloaded model):
-<img src="media\karambit-print.png" alt="drawing" height="280"/>
+
+<img src="media\karambit-print.png" alt="drawing" height="240"/>
 
 
 💬 Ask me about tea, coffee, food, games.
+
 📫 Send me quality 💩🅿osts
 
 
