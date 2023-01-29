@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<img src="media\DALLE2-doge.png" alt="drawing" height="320"/>
-
+<div style="max-width: 360px">
+    <img src="/media/DALLE2-doge.png"/>
+</div>
 
 ### Who am I?
 I'm Alex, an engineer in Australia. 
@@ -9,23 +10,31 @@ I majored in Electrical/Electronics and dabbled in physics (undergrad).
 
 #### 🌱 I’m currently learning: **3D-printing**
 
-<img src="media\bathroom-holder.png" alt="drawing" height="320"/>
+<div style="max-width: 720px;">
+    <img src="media/bathroom-holder.png"/>
+    <img src="media/fusion.png" />
+    <img src="media/cura.gif" />
+</div>
 
-<img src="media\fusion.png" alt="drawing" height="240"/><img src="media\cura.gif" alt="drawing" height="240"/>
+A random print (downloaded model):
 
-Another random print (downloaded model):
+<div style="max-width: 640px;">
+    <img src="media\karambit-print.png"/>
+</div>
 
-<img src="media\karambit-print.png" alt="drawing" height="240"/>
 
 
 #### Other me stuff
 
-🎼 I make content: https://www.youtube.com/watch?v=OXcaO0Wk2JM
+🎼 I occasionally make content: 
+
+[Coffin DOOT (Remix):](https://www.youtube.com/watch?v=OXcaO0Wk2JM)
+
+[![Coffin-Doot-Remix](https://img.youtube.com/vi/OXcaO0Wk2JM/0.jpg)](https://www.youtube.com/watch?v=OXcaO0Wk2JM)
+
+<!-- didn't say it's got views or anything-->
 
 💬 Ask me about tea, coffee, food, games.
-
-📫 Send me quality 💩🅿osts
-
 
 <!--
 - 🔭 I’m currently working on ...
