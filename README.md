@@ -1,38 +1,28 @@
-### Hi there 👋
+# Hi there 👋
 
-<div style="max-width: 360px">
-    <img src="/media/DALLE2-doge.png"/>
-</div>
-
-### Who am I?
-I'm Alex, an engineer in Australia. 
+I'm Alex, an engineer in Australia.
 I majored in Electrical/Electronics and dabbled in physics (undergrad).
 
-#### 🌱 I’m currently learning: **3D-printing**
+🌱 I’m currently learning: web-dev
 
-<div style="max-width: 720px;">
-    <img src="media/bathroom-holder.png"/>
-    <img src="media/fusion.png" />
-    <img src="media/cura.gif" />
-</div>
+## Other me stuff
+
+💠 I'm exploring **3D-printing**
+
+![""](media/bathroom-holder.png)
+![""](media/fusion.png)
+![""](media/cura.gif)
 
 A random print (downloaded model):
 
-<div style="max-width: 640px;">
-    <img src="media\karambit-print.png"/>
-</div>
+![""](media/karambit-print.png)
 
-
-
-#### Other me stuff
-
-🎼 I occasionally make content: 
+🎼 I occasionally make content such as:
+<!-- "didn't say it's got views or anything" -->
 
 [Coffin DOOT (Remix):](https://www.youtube.com/watch?v=OXcaO0Wk2JM)
 
 [![Coffin-Doot-Remix](https://img.youtube.com/vi/OXcaO0Wk2JM/0.jpg)](https://www.youtube.com/watch?v=OXcaO0Wk2JM)
-
-<!-- didn't say it's got views or anything-->
 
 💬 Ask me about tea, coffee, food, games.
 
