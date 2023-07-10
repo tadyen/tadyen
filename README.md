@@ -3,7 +3,7 @@
 I'm Alex, an engineer in Australia.
 I majored in Electrical/Electronics and dabbled in physics (undergrad).
 
-🌱 I’m currently learning: web-dev
+🌱 I’m currently learning: web-dev + 💎Ruby
 
 ## Other me stuff
 
