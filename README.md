@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Alex, a software engineer in Australia.
+I'm a Software & EE engineer in Australia.
 
 I make dumb stuff on the occasion.
 
